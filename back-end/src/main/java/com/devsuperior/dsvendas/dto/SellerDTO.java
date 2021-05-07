@@ -18,10 +18,10 @@ public class SellerDTO implements Serializable {
 		this.id = id;
 		this.name = name;
 	}
-	
+
 	public SellerDTO(Seller entity) {
 		id = entity.getId();
-		name = entity.getNome();
+		name = entity.getName();
 	}
 
 	public Long getId() {
