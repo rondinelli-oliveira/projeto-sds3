@@ -10,7 +10,7 @@ DSVendas é uma aplicação full stack web construída durante a 3ª edição da
 A aplicação consiste em um sistema que simula as vendas de uma equipe, onde os dados são armazeanados em uma base de dados e depois são listados na interface web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
 ## Layout web
-![Web 1]https://github.com/rondinelli-oliveira/projeto-sds3/blob/master/assets/home.png)
+![Web 1](https://github.com/rondinelli-oliveira/projeto-sds3/blob/master/assets/home.png)
 
 ![Web 2](https://github.com/rondinelli-oliveira/projeto-sds3/blob/master/assets/dash.png)
 
