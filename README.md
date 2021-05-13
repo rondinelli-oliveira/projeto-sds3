@@ -42,7 +42,7 @@ Pré-requisitos: Java 11
 git clone https://github.com/rondinelli-oliveira/projeto-sds3
 
 # entrar na pasta do projeto back end
-cd backend
+cd back-end
 
 # executar o projeto
 ./mvnw spring-boot:run
